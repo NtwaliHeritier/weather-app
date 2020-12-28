@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live demo](https://rawcdn.githack.com/NtwaliHeritier/js-library/0665ab123256af17870faaecbb327874fafba5cf/index.html)
+[Live demo](https://raw.githack.com/NtwaliHeritier/weather-app/feature/dist/index.html)
 
 ## Built With 🛠
 
