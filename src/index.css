@@ -67,8 +67,10 @@ input:checked + .slider:before {
 }
 
 .container {
+	background: url('https://en.euractiv.eu/wp-content/uploads/sites/2/2019/05/Autumn_forest-800x450.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
 	height: 100vh;
-	background-color: #2196f3;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -103,4 +105,9 @@ form button {
 
 .slider-div {
 	margin-top: 10px;
+}
+
+.result {
+	font-size: 20px;
+	font-weight: 900;
 }
