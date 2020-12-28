@@ -65,3 +65,42 @@ input:checked + .slider:before {
 .slider.round:before {
 	border-radius: 50%;
 }
+
+.container {
+	height: 100vh;
+	background-color: #2196f3;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.api-div {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 40px;
+	width: 40%;
+	height: 30%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+form {
+	display: relative;
+}
+
+form input,
+form button {
+	padding: 10px;
+	width: 100%;
+}
+
+form button {
+	border: none;
+	background-color: none;
+	font-weight: bold;
+}
+
+.slider-div {
+	margin-top: 10px;
+}
